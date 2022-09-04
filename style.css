@@ -1,0 +1,40 @@
+main{
+	display: flex;
+	margin-left: 80px;
+	margin-bottom: 50px;
+}
+body{
+	background: #E5E5E5;
+}
+.botones{
+	display: flex;
+	flex-direction: row;
+}
+.encriptador{
+	background-color: darkblue;
+	color: white;
+	
+
+}
+.desencriptar{
+	margin-left: 20px;
+
+}
+.mensaje{
+	background-image: url("imagenes/Muñeco.png");
+	background-position: center;
+	margin-left: 80px;
+	margin-top: 10px;
+	background-repeat: no-repeat;
+	width: 250px;
+	height: 250px;
+	
+}
+.copy{
+	display: flex;
+	margin-left: 170px;
+
+}
+
+
+
